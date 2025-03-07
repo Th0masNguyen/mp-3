@@ -1,4 +1,3 @@
-import { styled } from "styled-components";
 import Calc from "./Calc.tsx";
 import StyledMain from "../ui-components/StyledMain";
 

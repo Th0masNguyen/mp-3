@@ -1,4 +1,3 @@
-import { styled } from "styled-components";
 import StyledMain from "../ui-components/StyledMain";
 
 export default function Skills() {
